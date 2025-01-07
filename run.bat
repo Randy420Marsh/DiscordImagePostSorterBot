@@ -8,7 +8,7 @@ echo "Launching..."
 
 call .\venv\scripts\activate.bat
 
-python -s autosorter.py
+python -s sorterbot.py
 
 REM Bot permission integer: 515396200512
 
